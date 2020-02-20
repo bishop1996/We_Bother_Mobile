@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Megabyte-Regular;
+  src: url(Megabyte-Regular.otf);
+}
+@font-face {
+  font-family: Megabyte-Bold;
+  src: url(Megabyte-Bold.otf);
+  font-weight: 700;
+}
